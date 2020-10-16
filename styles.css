@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: aqua;
+	
+}
+p{
+	color:blue;
+	text-align: right;
+}
+#firstp
+{
+	color:crimson;
+	line-height: 3;
+	font-family: "Times New Roman",Times,serif;
+}
+#secondp
+{
+	color:lightcoral;
+	line-height: 1.8;
+	font-family: "Times New Roman",Times,serif;
+}
+.green {
+	color: green;
+}
+.mediumvioletred {
+	color: mediumvioletred;
+}
+h1{
+	color:green;
+	text-align:center;
+}
+a{
+	text-decoration: none;
+}
